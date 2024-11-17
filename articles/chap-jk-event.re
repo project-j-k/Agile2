@@ -37,7 +37,7 @@ J.K（@project_j_k）
 |--|--|--|
 |Scrum Fest Osaka|2002|@<href>{https://www.scrumosaka.org/, https://www.scrumosaka.org/}<br>Regional Scrum Gathering Tokyoから生まれたスクフェス第1号。2年目からはオンラインで全国の地域コミュニティを巻き込みながらかたちを変え、2025からはまた新しい運営メンバーではじまるとのこと。|
 |Scrum Fest Mikawa|2020|@<href>{https://www.scrumfestmikawa.org/, https://www.scrumfestmikawa.org/}<br>スクフェス第2号。初回から現地会場 × オンラインのハイブリッド開催で賑わう。参加者さんもスポンサーさんも製造業が多いのが特徴。|
-|Scrum Fest Sapporo|2020|@<href>{https://www.scrumfestsapporo.org/, https://www.scrumfestsapporo.org/}<br>歴史と伝統のあるアジャイル札幌が主催で、暖かい雰囲気が大好き。お手製のお土産ボックスが最高に美味しい体験を提供してくれて、北海道に思いを馳せてしまう。2023年から。|
+|Scrum Fest Sapporo|2020|@<href>{https://www.scrumfestsapporo.org/, https://www.scrumfestsapporo.org/}<br>歴史と伝統のあるアジャイル札幌が主催で、暖かい雰囲気が大好き。お手製のお土産ボックスが最高に美味しい体験を提供してくれて、北海道に思いを馳せてしまう。2023年から舞台は後述のニセコへ。|
 |Scrum Fest Niigata|2022|@<href>{https://www.scrumfestniigata.org/, https://www.scrumfestniigata.org/}<br>オーガナイザーさんの愛と情熱のおもてなしが現地参加者を歓喜の渦に。テスト・QAさんの色が濃ゆい。|
 |Scrum Fest Sendai|2022|@<href>{https://www.scrumfestsendai.org/, https://www.scrumfestsendai.org/}<br>サメのようなマスコットキャラクターが誕生！ シャーやサメといった語尾が伝染する参加者が続出。東北のアジャイルの入り口に。|
 |Scrum Fest Fukuoka|2023|@<href>{https://www.scrumfestfukuoka.org/, https://www.scrumfestfukuoka.org/}<br>スクフェスが遂に九州に上陸。|
